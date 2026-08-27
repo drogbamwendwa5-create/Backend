@@ -1,0 +1,10 @@
+◇ injected env (24) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+Mode: ANALYZE (dry-run)
+Connecting to MongoDB...
+MongoDB Connected: ac-8cck0gn-shard-00-01.f5vythh.mongodb.net
+Using database: "test"
+Restoring "aggregatedproperties" from aggregatedproperties-snapshot.json
+   Inserted 500/1000   Inserted 1000/1000
+   Verified 1000 docs | recreated 19 secondary indexes
+
+Restore complete.

@@ -1,0 +1,149 @@
+[
+  {
+    "v": 2,
+    "key": {
+      "propertyID": 1
+    },
+    "name": "propertyID_1",
+    "unique": true
+  },
+  {
+    "v": 2,
+    "key": {
+      "sourceName": 1
+    },
+    "name": "sourceName_1"
+  },
+  {
+    "v": 2,
+    "key": {
+      "title": 1
+    },
+    "name": "title_1"
+  },
+  {
+    "v": 2,
+    "key": {
+      "price": 1
+    },
+    "name": "price_1"
+  },
+  {
+    "v": 2,
+    "key": {
+      "listingType": 1
+    },
+    "name": "listingType_1"
+  },
+  {
+    "v": 2,
+    "key": {
+      "propertyType": 1
+    },
+    "name": "propertyType_1"
+  },
+  {
+    "v": 2,
+    "key": {
+      "county": 1
+    },
+    "name": "county_1"
+  },
+  {
+    "v": 2,
+    "key": {
+      "town": 1
+    },
+    "name": "town_1"
+  },
+  {
+    "v": 2,
+    "key": {
+      "availability": 1
+    },
+    "name": "availability_1"
+  },
+  {
+    "v": 2,
+    "key": {
+      "rankingScore": 1
+    },
+    "name": "rankingScore_1"
+  },
+  {
+    "v": 2,
+    "key": {
+      "isFeatured": 1
+    },
+    "name": "isFeatured_1"
+  },
+  {
+    "v": 2,
+    "key": {
+      "isPublished": 1
+    },
+    "name": "isPublished_1"
+  },
+  {
+    "v": 2,
+    "key": {
+      "location": "2dsphere"
+    },
+    "name": "location_2dsphere",
+    "2dsphereIndexVersion": 3
+  },
+  {
+    "v": 2,
+    "key": {
+      "price": 1,
+      "listingType": 1
+    },
+    "name": "price_1_listingType_1"
+  },
+  {
+    "v": 2,
+    "key": {
+      "county": 1,
+      "town": 1
+    },
+    "name": "county_1_town_1"
+  },
+  {
+    "v": 2,
+    "key": {
+      "sourceName": 1,
+      "sourceID": 1
+    },
+    "name": "sourceName_1_sourceID_1",
+    "unique": true
+  },
+  {
+    "v": 2,
+    "key": {
+      "isPublished": 1,
+      "availability": 1,
+      "createdAt": -1
+    },
+    "name": "isPublished_1_availability_1_createdAt_-1"
+  },
+  {
+    "v": 2,
+    "key": {
+      "isPublished": 1,
+      "availability": 1,
+      "propertyType": 1,
+      "createdAt": -1
+    },
+    "name": "isPublished_1_availability_1_propertyType_1_createdAt_-1"
+  },
+  {
+    "v": 2,
+    "key": {
+      "isPublished": 1,
+      "availability": 1,
+      "listingType": 1,
+      "createdAt": -1
+    },
+    "name": "isPublished_1_availability_1_listingType_1_createdAt_-1"
+  }
+]
